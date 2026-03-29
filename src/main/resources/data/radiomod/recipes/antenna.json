@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "FLF",
+    "TBT",
+    "RCR"
+  ],
+  "key": {
+    "F": {
+      "item": "contagion:gold_streaked_flesh"
+    },
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "T": {
+      "item": "minecraft:redstone_torch"
+    },
+    "B": {
+      "item": "minecraft:redstone_block"
+    },
+    "R": {
+      "item": "minecraft:repeater"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "result": {
+    "item": "radiomod:antenna",
+    "count": 1
+  }
+}

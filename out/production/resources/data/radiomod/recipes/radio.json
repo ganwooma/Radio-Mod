@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "BDB",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "radiomod:battery"
+    },
+    "D": {
+      "item": "radiomod:dead_radio"
+    }
+  },
+  "result": {
+    "item": "radiomod:radio",
+    "count": 1
+  }
+}

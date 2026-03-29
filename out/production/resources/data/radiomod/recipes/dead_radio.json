@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AND",
+    "CBC",
+    "GIR"
+  ],
+  "key": {
+    "A": {
+      "item": "radiomod:antenna"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "C": {
+      "item": "radiomod:copper_wire"
+    },
+    "B": {
+      "item": "radiomod:broken_radio"
+    },
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "radiomod:radio",
+    "count": 1
+  }
+}

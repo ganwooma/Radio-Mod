@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "radiomod",
+  "version": "1.0",
+  "name": "RadioMod",
+  "description": "My first mod^^",
+  "authors": ["Ganwooma"],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/radiomod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "dev.ganwooma.radiomod.client.RadiomodDataGenerator"
+    ],
+    "client": [
+      "dev.ganwooma.radiomod.client.RadiomodClient"
+    ],
+    "main": [
+      "dev.ganwooma.radiomod.Radiomod"
+    ]
+  },
+  "mixins": [
+    "radiomod.mixins.json",
+    {
+      "config": "radiomod.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": "0.16.5",
+    "fabric-api": "*",
+    "minecraft": "1.20.1"
+  }
+}

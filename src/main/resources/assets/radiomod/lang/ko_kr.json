@@ -1,0 +1,10 @@
+{
+  "item.radiomod.broken_radio": "부서진 라디오",
+  "item.radiomod.dead_radio": "방전된 라디오",
+  "item.radiomod.radio": "라디오",
+  "itemGroup.radiomod.radiomod": "GWM의 라디오 모드",
+  "item.radiomod.copper_wire": "구리 선",
+  "item.radiomod.copper_thread": "구리 실",
+  "item.radiomod.battery": "건전지",
+  "item.radiomod.antenna": "안테나"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CFC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "radiomod:copper_thread"
+    },
+    "F": {
+      "item": "contagion:gold_streaked_flesh"
+    }
+  },
+  "result": {
+    "item": "radiomod:copper_wire",
+    "count": 1
+  }
+}
