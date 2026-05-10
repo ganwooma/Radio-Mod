@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "radiomod:block/gold_barrel_bottom",
+    "side": "radiomod:block/gold_barrel_side",
+    "top": "radiomod:block/gold_barrel_top_open"
+  }
+}

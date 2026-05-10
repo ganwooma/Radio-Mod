@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "decorations",
+
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    }
+  },
+
+  "result": {
+    "item": "minecraft:barrel"
+  }
+}

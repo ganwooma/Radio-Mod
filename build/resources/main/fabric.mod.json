@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "id": "radiomod",
-  "version": "1.0",
+  "version": "1.8",
   "name": "RadioMod",
-  "description": "My first mod^^",
+  "description": "For Apocalypse Modpack",
   "authors": ["Ganwooma"],
   "contact": {},
   "license": "All-Rights-Reserved",
@@ -28,7 +28,7 @@
     }
   ],
   "depends": {
-    "fabricloader": "0.16.5",
+    "fabricloader": ">=0.16.5",
     "fabric-api": "*",
     "minecraft": "1.20.1"
   }

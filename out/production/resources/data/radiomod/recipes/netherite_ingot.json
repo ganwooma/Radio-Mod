@@ -13,7 +13,7 @@
       "item": "minecraft:diamond"
     },
     "F": {
-      "itme": "minecraft:flint"
+      "item": "minecraft:flint"
     },
     "I": {
       "item": "minecraft:gold_ingot"
@@ -23,7 +23,7 @@
     }
   },
   "result": {
-    "item": "minecraft:netherite_block",
+    "item": "minecraft:netherite_ingot",
     "count": 1
   }
 }

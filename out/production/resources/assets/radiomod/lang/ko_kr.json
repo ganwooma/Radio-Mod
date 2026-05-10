@@ -6,5 +6,15 @@
   "item.radiomod.copper_wire": "구리 선",
   "item.radiomod.copper_thread": "구리 실",
   "item.radiomod.battery": "건전지",
-  "item.radiomod.antenna": "안테나"
+  "item.radiomod.antenna": "안테나",
+  "item.radiomod.miner_pickaxe": "광부의 곡괭이",
+  "item.radiomod.long_sword": "장검",
+  "item.radiomod.bat": "야구 배트",
+  "item.radiomod.field_shovel": "야전삽",
+  "item.radiomod.mass": "매스",
+  "item.radiomod.hammer": "망치",
+  "block.radiomod.gold_barrel": "금 통",
+  "block.radiomod.iron_barrel": "철 통",
+  "block.radiomod.radio_chest": "상자",
+  "item.radiomod.first_aid_kit": "구급상자"
 }

@@ -1,0 +1,19 @@
+{
+  "rolls": 5,
+  "items": [
+    {
+      "item": "minecraft:iron_ingot",
+      "chance": 0.0,
+      "min": 3,
+      "max": 16,
+      "weight": 50
+    },
+    {
+      "item": "minecraft:redstone",
+      "chance": 0.0,
+      "min": 2,
+      "max": 10,
+      "weight": 20
+    }
+  ]
+}

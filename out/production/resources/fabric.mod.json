@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "id": "radiomod",
-  "version": "1.0",
+  "version": "1.7",
   "name": "RadioMod",
-  "description": "",
-  "authors": [],
+  "description": "For Apocalypse Modpack",
+  "authors": ["Ganwooma"],
   "contact": {},
   "license": "All-Rights-Reserved",
   "icon": "assets/radiomod/icon.png",
@@ -28,7 +28,7 @@
     }
   ],
   "depends": {
-    "fabricloader": "0.18.5",
+    "fabricloader": ">=0.16.5",
     "fabric-api": "*",
     "minecraft": "1.20.1"
   }
